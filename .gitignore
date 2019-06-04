@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# config_files
+gr_key.py
+nyt_key.py

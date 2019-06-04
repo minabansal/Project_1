@@ -1,4 +1,5 @@
-# Project1_Group13: Mina Bansal, Roger Lefort, Hansen Xu, Chi-Kuang Chen
+# Project1_Group13 - DUE JUNE 12: 
+# Mina Bansal, Roger Lefort, Hansen Xu, Chi-Kuang Chen
 
 * The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
 
@@ -32,9 +33,15 @@ whether there is a correlation between gender and genre;
 and the author ratings (does the goodreads author rating correspond to the number of NYT bestsellers?)
 
 Steps:
-1) Set up API for NYT 
+1) Set up API for NYT and Goodreads
+	Mina set up Goodreads API and NYT code
+	
 2) Clean up Data - (how?)
-3) 
+	Roger - clean up data
+	
+3) Exploration
+	ALL
+	Saturday - discuss exploration
 
 Q1 - what age do authors tend to publish their bestselling books? (look within genre, decades, etc)
 
