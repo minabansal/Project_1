@@ -16,7 +16,7 @@
  
  q 5 - are bestselling authors one-hit wonders or consistently produce bestselling books?
  
- q 6 - is there a trend of certain genres/topics being more prevent according to economy? (do we see more wartime book during war or escapism/fiction during economic downturn)
+ q 6 - is there a trend of certain genres/topics being more prevent according to economy? (do we see more wartime book during war or escapism/fiction during economic downturn) - US data.gov or bs.gove for unemployment data and gdp data
 
 * Possible source for such data
 
@@ -32,7 +32,9 @@ whether there is a correlation between gender and genre;
 and the author ratings (does the goodreads author rating correspond to the number of NYT bestsellers?)
 
 Steps:
-1) Set up API for Goodreads and NYT
+1) Set up API for NYT 
+2) Clean up Data - (how?)
+3) 
 
 Q1 - what age do authors tend to publish their bestselling books? (look within genre, decades, etc)
 
@@ -55,4 +57,4 @@ Q5 - are bestselling authors one-hit wonders or consistently produce bestselling
 
 * scatterplot of genre and count of bestselling authors?
 	
-
+q 6 - is there a trend of certain genres/topics being more prevent according to economy? (do we see more wartime book during war or escapism/fiction during economic downturn) - US data.gov or bs.gove for unemployment data and gdp data
